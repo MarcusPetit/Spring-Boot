@@ -18,12 +18,6 @@ import com.marcus.springboot.repossitory.UserRepository;
 @RequestMapping("/users")
 public class UserController {
 
-  // GET
-  // POST
-  // PUT
-  // DELETE
-  // PATCH
-
   @Autowired
   private UserRepository userRepository;
 
